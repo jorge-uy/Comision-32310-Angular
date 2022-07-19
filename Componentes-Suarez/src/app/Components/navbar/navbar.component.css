@@ -1,0 +1,15 @@
+
+.navbar{
+  background:#5b6670;
+  Background-color: transparent;
+  display: grid;
+  font-family: 'Pacifico', cursive;
+  font-size: 180%;
+  font-weight: 100; 
+  color: #beaa13;
+ 
+}  
+
+p{
+  text-shadow: 2px 2px #504e4e;
+}
